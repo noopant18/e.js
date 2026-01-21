@@ -259,7 +259,7 @@
 // console.log(p1);
 // console.log(p2);
 
-//my 2nd commit ###
+ 
 function person(eid,ename,salary)
 {
     this.eid=eid;
